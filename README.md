@@ -1,3 +1,4 @@
+# daily-codewars
 Greetings!
 
 This repo is where I will be pushing my daily challenges.
